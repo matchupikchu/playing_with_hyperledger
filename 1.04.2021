@@ -1,0 +1,6 @@
+Dziś udało mi się uruchomić pierwszą sieć. Pojawiły się bardzo prozaiczne problemy, których początkowo nie spostrzegłem. 
+W pierwszej kolejnosci pobierałem repo fabric-samples, a następnie pliki binarne potrzebne hyperledger'owi. Okazuje się, że skrypt wykorzystywany w tutorialu 
+do pobierania binarek tworzy nowy katalog fabric-samples i zastępuje zawartość katalogu, w którym znajdowało się repozytorium fabric-samples. 
+Po pobraniu binarek do innego folderu, niż ten w którym znajdowało się repo i przekopiowaniu binarek problem zniknął. 
+
+Poza tym, gdyby ktoś miał korzystać z tego repo szukając pomocy jak zacząć zabawę z hyperledgerem, polecam sprawdzić czy sklonowaliście odpowiedniego brancha z github'a. 
